@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://ibb.co/Vg7Kq12" align="center" style="width: 100%" />
-</div>  
+![Untitled](https://github.com/user-attachments/assets/1e3b4b20-b5b6-4d6b-9f4d-dfaaee407287)
+
   
 
 ### <div align="center">I'm Safiya, a software engineering student and developer 👩‍💻</div>  
