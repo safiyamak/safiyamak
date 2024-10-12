@@ -11,14 +11,12 @@
 - 🌱 At Transformer Lab, I worked on many key app functionalities including: optimizing external inference plugins for multimodal support
 UI enhancement across multiple app components
 Increasing flexibility in dataset management
-Improving training templates to give users flexibility when creating new models  
+Improving training templates to give users flexibility when creating new models
+
+- ⚕️ In addition, I have worked on multiple personal projects and hackathons. Notable personal projects include Butterfly, an autoimmune disease symptom tracking app, built to improve communication between patients and doctors.
   
 
-- ❓ Ask me about anything related to Artificial Intelligence  
-  
-
-- ⚡ Fun fact: I love cycling and video games!  
-  
+- ❓ Ask me about anything related to Artificial Intelligence or Healthcare tech  
 
 <br/>  
 
